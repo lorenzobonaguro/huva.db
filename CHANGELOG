@@ -1,0 +1,22 @@
+huva.db R package - changelog
+
+0.1.2 <-
+	- corrected "Etnicity" with "Ethnicity" in FG500 anno
+	- changed class of the huva.db in "huva_dataset"
+	- update the "overview" table to include the sample number
+
+0.1.3 <-
+	- Fixed NA values in the CEDAR dataset - set to 0
+
+0.1.4 <-
+	- ***no changes to this version***
+
+0.1.4_2 <-
+	- Removed some donor information of the 500FG (public version)
+
+0.1.5 <-
+	- Renaming of 'Classifier' to 'PBMC_collection'
+	- Renaming of 'PBMC' in 500FG in 'Whole_Blood'
+
+0.1.6 <-
+	- Remove duplicated annotation from CEDAR dataset

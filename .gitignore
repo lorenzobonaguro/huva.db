@@ -1,0 +1,5 @@
+inst/doc
+*.Rproj
+/.Rproj.user
+/version_changes/huvadb_history.RData
+/data/huva.db.rda
