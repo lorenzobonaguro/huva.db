@@ -7,7 +7,7 @@ Population-scale multi-layered datasets assemble extensive experimental data of 
 With the *huva.db* project we provide a pre-formatted *huva_dataset* for human variation analysis. We include here several dataset: FG500, ImmVar, CEDAR, CLASSIFIER. This package is meant to be used in combination with the set of functions provided in the [*huva* package](https://github.com/lorenzobonaguro/huva). 
 
 ## how to install *huva.db*
-We suggest to use *huva* and *huva.db* with the pre-built [docker image](https://hub.docker.com/repository/docker/lorenzobonaguro/huva_docker)
+We suggest to use *huva* and *huva.db* with the pre-built [docker image](https://hub.docker.com/r/lorenzobonaguro/huva_docker)
 
 If you want to install *huva.db* on your system, you can download the source code from [Zenodo](https://doi.org/10.5281/zenodo.7071266). 
 
@@ -17,7 +17,7 @@ If you want to install *huva.db* on your system, you can download the source cod
 For detailed informations usage check the *huva vignette* and the documentation of each function
 
 ## How to cite *huva*
-If you use *huva.db* in your research project consider citing us [Bonaguro et al. iScience, 2022](weblink).
+If you use *huva.db* in your research project consider citing us [Bonaguro et al. iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)01600-5#%20).
 
 ## Contact or follow us
 For any problem of question regrding the *huva.db* package or this repositoy or you just want to be up to date on what is coming next, send us an [email](mailto:lorenzobonaguro@uni-bonn.de) or follow us:  
